@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPJsK/A+Ric9/Ux4fKgdmvD7NWpfVeGJXn1yDM7aNyURlRGAEEawIZXId7hOGYd/jKlAdFe8LIxq32y9I7DEPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gamer\\Desktop\\Cadastro Pessoa Fisica\\CadPessoa\\CadPessoa\\CadPessoa.Aplicacao\\CadPessoa.Aplicacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
